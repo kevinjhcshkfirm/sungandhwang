@@ -120,7 +120,7 @@ a:hover {
 	.navbar .nav-item .dropdown-menu{ margin-top:0; }
 }
 
-@media all and (max-width: 992px) {
+@media all and (max-width: 768px) {
   .navbar-light .navbar-nav .nav-link {
     padding-left: 0 !important;
     padding-right: 0 !important;
